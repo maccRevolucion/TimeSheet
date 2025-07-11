@@ -16,13 +16,13 @@ Aplicación Android para registrar asistencias remotamente desde el celular.
 
 ## 🖼️ Capturas de pantalla
 
-###Proximamente....
+### Proximamente....
 
 ---
 
 ## 🎞️ Vista en acción (GIF)
 
-###Proximamente...
+### Proximamente...
 ---
 
 ## 🚀 Instalación
